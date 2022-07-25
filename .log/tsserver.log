@@ -18565,3 +18565,5 @@ Info 18553[01:13:00.021] Different program with same set of files
 Info 18554[01:13:00.656] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
 Info 18555[01:13:00.667] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2088 structureChanged: false structureIsReused:: Completely Elapsed: 11.670628994703293ms
 Info 18556[01:13:00.668] Different program with same set of files
+Info 18557[02:03:33.712] DirectoryWatcher:: Triggered with /home/hamza/dev/react/meme-generator/src/assets/app-preview.png 0:: WatchInfo: /home/hamza/dev/react/meme-generator/src/assets 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 18558[02:03:33.712] Elapsed:: 0.06769701838493347ms DirectoryWatcher:: Triggered with /home/hamza/dev/react/meme-generator/src/assets/app-preview.png 0:: WatchInfo: /home/hamza/dev/react/meme-generator/src/assets 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
